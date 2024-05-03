@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ex2_6_2</string>
+    <string name="firstVal">Введите число</string>
+    <string name="secondVal">Введите число</string>
+    <string name="thirdVal">Введите число</string>
+    <string name="count">Вычесть</string>
+    <string name="hi">Привет</string>
+    <string name="start">Начать</string>
+    <string name="person">Ковальчук Артём Викторович РИБО-02-22</string>
+</resources>
